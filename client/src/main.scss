@@ -1,0 +1,22 @@
+@import "scss/base/_reset.scss";
+
+//import scss component
+@import "scss/component/_navbar.scss";
+@import 'scss/component//bgimg.scss';
+@import 'scss/component//account.scss';
+@import 'scss/component/notFound.scss';
+
+//abstract scss
+@import 'scss/abstracts/_varible.scss';
+@import 'scss/abstracts/mixin.scss';
+@import 'scss/abstracts//extends.scss';
+
+
+//uitls scss
+@import 'scss/utils/utils.scss';
+
+
+//import scss layout
+@import 'scss/layout/grid.scss'
+
+//

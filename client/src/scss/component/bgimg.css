@@ -1,0 +1,21 @@
+.bgimg {
+  width: 100%;
+  height: calc(100vh - 8.8rem);
+  background: url("../../img/bgimg.jpg");
+  background-size: cover;
+}
+
+@media (max-width: 600px) {
+  .bgimg {
+    width: 0;
+    height: 0;
+  }
+}
+
+@media (max-width: 900px) {
+  .bgimg {
+    width: 0;
+    height: 0;
+  }
+}
+/*# sourceMappingURL=bgimg.css.map */

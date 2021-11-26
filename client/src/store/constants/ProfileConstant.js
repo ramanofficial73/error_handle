@@ -1,0 +1,4 @@
+ 
+export const SET_PROFILE_ERROR = "SET_PROFILE_ERROR";
+export const PROFILE_RESET_ERRORS = "PROFILE_RESET_ERRORS"
+export const SET_TOKEN = 'SET_TOKEN'

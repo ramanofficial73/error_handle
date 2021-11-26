@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,MAAM,CAAA;EACF,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,oBAAoB;EAC5B,UAAU,EAAE,0BAA0B;EACtC,eAAe,EAAE,KAAK;CAUzB;;ACfO,MAAM,EAAE,SAAS,EAAE,KAAK;EDChC,AAAA,MAAM,CAAA;IAOE,KAAK,EAAE,CAAC;IACR,MAAM,EAAE,CAAC;GAMhB;;;ACVO,MAAM,EAAE,SAAS,EAAE,KAAK;EDJhC,AAAA,MAAM,CAAA;IAWE,KAAK,EAAE,CAAC;IACR,MAAM,EAAE,CAAC;GAEhB",
+    "sources": [
+        "bgimg.scss",
+        "../abstracts/mixin.scss"
+    ],
+    "names": [],
+    "file": "bgimg.css"
+}

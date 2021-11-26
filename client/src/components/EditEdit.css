@@ -1,0 +1,11 @@
+.mt-100{
+    padding-top: 10rem;
+    }
+
+
+    label{
+        display: block;
+        font-size: 1.3rem;
+        margin-bottom: .4rem;
+    }
+    
